@@ -15,7 +15,7 @@
       padding: 20px;
       background-color: transparent;
       margin-left: auto;
-      margin-right: -180px;
+      margin-right: -181px;
 
     }
     
